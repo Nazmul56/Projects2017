@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/nazmul/Desktop/My Project/JSON+Image/jsonandtextimage/app/build/intermediates/res/merged/debug/drawable/list_row_selector.xml",
+        "source": "/home/nazmul/Desktop/My Project/JSON+Image/jsonandtextimage/app/src/main/res/drawable/list_row_selector.xml"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/My Project/JSON+Image/jsonandtextimage/app/build/intermediates/res/merged/debug/drawable/list_row_bg_hover.xml",
+        "source": "/home/nazmul/Desktop/My Project/JSON+Image/jsonandtextimage/app/src/main/res/drawable/list_row_bg_hover.xml"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/My Project/JSON+Image/jsonandtextimage/app/build/intermediates/res/merged/debug/drawable/list_row_bg.xml",
+        "source": "/home/nazmul/Desktop/My Project/JSON+Image/jsonandtextimage/app/src/main/res/drawable/list_row_bg.xml"
+    }
+]

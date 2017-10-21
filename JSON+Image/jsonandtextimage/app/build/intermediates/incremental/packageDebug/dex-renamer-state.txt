@@ -1,0 +1,7 @@
+#Tue Feb 07 13:38:05 BDT 2017
+base.0=/home/nazmul/Desktop/My Project/JSON+Image/jsonandtextimage/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_309c86a7456eb560469c95a0e95c7651d17d5612
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/nazmul/Desktop/My Project/JSON+Image/jsonandtextimage/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cfebd881ad9b04285acd9e34a800a6e06e433b00/classes.dex
+base.1=/home/nazmul/Desktop/My Project/JSON+Image/jsonandtextimage/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cfebd881ad9b04285acd9e34a800a6e06e433b00
+file.0=/home/nazmul/Desktop/My Project/JSON+Image/jsonandtextimage/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_309c86a7456eb560469c95a0e95c7651d17d5612/classes.dex

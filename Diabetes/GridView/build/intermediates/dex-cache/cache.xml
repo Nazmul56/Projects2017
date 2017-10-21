@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/nazmul/Desktop/My Project/Diabetes/GridView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="070ffe37e1ed92218793e3cc2ee3b032201d9764">
+        <dex dex="/home/nazmul/Desktop/My Project/Diabetes/GridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6a6a2bcbf20844d4551067fa7397bf7fc23168a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nazmul/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/nazmul/Desktop/My Project/Diabetes/GridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_e727248cfc4c48208af42b4299bfb71542107a42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nazmul/Desktop/My Project/Diabetes/GridView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="889b0023a893a746357ff3274a4ea133346d3b7f">
+        <dex dex="/home/nazmul/Desktop/My Project/Diabetes/GridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1736f9e76ce07a45f86d76497882a223820ebafa/classes.dex" />
+    </item>
+
+</items>

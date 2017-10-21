@@ -1,0 +1,7 @@
+#Wed Jan 11 00:13:02 BDT 2017
+base.0=/home/nazmul/Desktop/My Project/Gradbar-master/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9f4909edfff160fb0ba29227a3f8f046064a68fd
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/nazmul/Desktop/My Project/Gradbar-master/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_491c9c263615894093f6e5ce65c10d30b6d9da79/classes.dex
+base.1=/home/nazmul/Desktop/My Project/Gradbar-master/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_491c9c263615894093f6e5ce65c10d30b6d9da79
+file.0=/home/nazmul/Desktop/My Project/Gradbar-master/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9f4909edfff160fb0ba29227a3f8f046064a68fd/classes.dex

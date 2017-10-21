@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/padding" >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/padding"
+        android:background="@android:color/background_light">
+
+        <bhh.youtube.channel.FeedImageView
+            android:id="@+id/img"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/image_height"
+            android:scaleType="centerCrop"
+            android:background="@android:color/background_light"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="bottom|left"
+            android:background="@color/material_red_400">
+
+
+           
+            <TextView
+                android:id="@+id/txttitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@android:style/TextAppearance.Medium"
+                android:textColor="@android:color/white"
+                android:layout_marginLeft="@dimen/margin"
+                android:layout_marginTop="0dp"
+                android:layout_marginRight="@dimen/margin"
+                android:layout_marginBottom="@dimen/margin"/>
+
+
+        </LinearLayout>
+    </FrameLayout>
+</FrameLayout>

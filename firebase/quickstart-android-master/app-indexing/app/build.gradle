@@ -1,0 +1,40 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.0"
+
+    defaultConfig {
+        applicationId "com.google.samples.quickstart.app_indexing"
+        minSdkVersion 18
+        targetSdkVersion 25
+        versionCode 2
+        versionName "1.0"
+
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+configurations.all {
+    resolutionStrategy.force 'com.android.support:support-annotations:25.0.1'
+}
+
+dependencies {
+    // [START app_indexing_gradle_dep]
+    compile 'com.google.firebase:firebase-appindexing:10.0.1'
+    // [END app_indexing_gradle_dep]
+    compile 'com.android.support:support-v4:25.0.1'
+    compile 'com.android.support:appcompat-v7:25.0.1'
+
+    // Testing
+    androidTestCompile 'com.android.support.test.espresso:espresso-core:2.2.2'
+    androidTestCompile 'com.android.support.test:runner:0.5'
+}
+
+apply plugin: 'com.google.gms.google-services'

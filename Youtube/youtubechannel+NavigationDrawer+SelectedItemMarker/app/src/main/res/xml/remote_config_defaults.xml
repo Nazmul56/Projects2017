@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key>youtube_api_key</key>
+        <value>AIzaSyBx1FWkp0jsPdba3_gYcX5xuXN76BnBihA</value>
+    </entry>
+    <entry>
+        <key>android_youtube_api_key</key>
+        <value>AIzaSyBx1FWkp0jsPdba3_gYcX5xuXN76BnBihA</value>
+    </entry>
+</defaultsMap>

@@ -1,0 +1,44 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+    useLibrary 'org.apache.http.legacy'
+    dexOptions {
+        javaMaxHeapSize "4g"
+    }
+    defaultConfig {
+        applicationId 'bhh.youtube.channel'
+        minSdkVersion 17
+        targetSdkVersion 23
+        multiDexEnabled true
+    }
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    compile files('libs/YouTubeAndroidPlayerApi.jar')
+    compile files('libs/universal-image-loader-1.9.3.jar')
+    compile files('libs/volley.jar')
+    //compile 'com.android.support:multidex:1.0.1'
+    compile 'com.android.support:support-v4:23.4.0'
+    compile 'com.android.support:appcompat-v7:23.4.0'
+    compile 'net.i2p.android.ext:floatingactionbutton:1.9.0'
+    compile 'com.google.android.gms:play-services:9.4.0'
+    compile 'com.android.support:design:23.4.0'
+    //Dependency For Remote Config
+    compile 'com.google.firebase:firebase-config:9.0.0'
+}
+
+apply plugin: 'com.google.gms.google-services'

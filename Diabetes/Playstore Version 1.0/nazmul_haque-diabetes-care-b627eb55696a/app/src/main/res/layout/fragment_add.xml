@@ -1,0 +1,295 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="50dp"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="10dp"
+    tools:context="com.droidking.diabetes.MainActivity$PlaceholderFragment"
+    android:scrollbars="vertical">
+    <android.support.v7.widget.CardView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/cv0"
+
+        card_view:cardElevation="4dp"
+        card_view:cardCornerRadius="3dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginBottom="6dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
+        android:layout_centerHorizontal="true"
+        android:paddingTop="@dimen/activity_vertical_margin">
+
+    <ScrollView android:id="@+id/ScrollViewID"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="2dp"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Current Blood Glucose : "
+                android:id="@+id/tvDate"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <EditText
+                android:layout_width="70dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/etDate"
+                android:layout_below="@id/tvDate"
+                android:background="@drawable/edittext"
+                android:layout_marginLeft="10dp"
+                android:paddingLeft="0dp"
+                android:paddingRight="0dp"
+                android:width="0dp"
+                android:paddingStart="0dp"
+                android:password="false"
+                android:maxLines="1"
+                android:layout_gravity="center_horizontal"
+                android:paddingTop="5dp"
+                android:inputType="text"
+                android:hint="00"
+                android:textAlignment="center" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/gluc_uni"
+                android:layout_marginLeft="5dp"
+                android:text="mmol/L"/>
+
+        </LinearLayout>
+
+
+    <!--EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:id="@+id/etDate"
+        android:layout_below="@id/tvDate"/-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="2dp"
+            android:orientation="horizontal">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/tvTime"
+        android:text="Target Blood Glucose  : "
+        android:layout_below="@id/etDate"/>
+    <!--EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:id="@+id/etTime"
+        android:layout_below="@id/tvTime"/-->
+            <EditText
+                android:layout_width="70dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/etTime"
+                android:layout_below="@id/tvDate"
+                android:background="@drawable/edittext"
+                android:layout_marginLeft="12dp"
+                android:paddingLeft="0dp"
+                android:paddingRight="0dp"
+                android:width="0dp"
+                android:paddingStart="0dp"
+                android:password="false"
+                android:maxLines="1"
+                android:layout_gravity="center_horizontal"
+                android:paddingTop="5dp"
+                android:inputType="text"
+                android:hint="00"
+                android:textAlignment="center" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/gluc_unit"
+                android:layout_marginLeft="5dp"
+                android:text="mmol/L"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="2dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:id="@+id/tvGlucoseLevel"
+                android:text="Carb Intake : "
+                android:layout_below="@id/etTime"/>
+            <!--EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="numberDecimal"
+                android:id="@+id/etGLucoseLevel"
+                android:layout_below="@id/tvGlucoseLevel"/-->
+            <EditText
+                android:layout_width="70dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/etGLucoseLevel"
+                android:layout_below="@id/tvDate"
+                android:background="@drawable/edittext"
+                android:layout_marginLeft="100dp"
+                android:paddingLeft="0dp"
+                android:paddingRight="0dp"
+                android:width="0dp"
+                android:paddingStart="0dp"
+                android:password="false"
+                android:maxLines="1"
+                android:layout_gravity="center_horizontal"
+                android:paddingTop="5dp"
+                android:inputType="text"
+                android:hint="00"
+                android:textAlignment="center" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="5dp"
+                android:text="grams"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="2dp">
+
+            <TextView
+                android:layout_width="187dp"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:id="@+id/tvUnit"
+                android:text="grams of carb/unit of insulin : "
+                android:layout_below="@id/etGLucoseLevel"/>
+            <!--EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="numberDecimal"
+                android:id="@+id/etUnit"
+                android:windowSoftInputMode="stateVisible"
+                android:layout_below="@id/tvUnit"/-->
+            <EditText
+                android:layout_width="70dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/etUnit"
+                android:layout_below="@id/tvDate"
+                android:background="@drawable/edittext"
+                android:layout_marginLeft="17dp"
+                android:paddingLeft="0dp"
+                android:paddingRight="0dp"
+                android:width="0dp"
+                android:paddingStart="0dp"
+                android:password="false"
+                android:maxLines="1"
+                android:paddingTop="5dp"
+                android:inputType="text"
+                android:hint="00"
+                android:textAlignment="center" />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="2dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:id="@+id/tvStatus"
+                android:text="Correction Factor : "
+                android:layout_below="@id/tvUnit"/>
+            <!--EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="numberDecimal"
+                android:id="@+id/etStatus"
+                android:windowSoftInputMode="stateVisible"
+                android:layout_below="@id/tvUnit"/-->
+            <EditText
+                android:layout_width="70dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/etStatus"
+                android:layout_below="@id/tvDate"
+                android:background="@drawable/edittext"
+                android:layout_marginLeft="50dp"
+                android:paddingLeft="0dp"
+                android:paddingRight="0dp"
+                android:width="0dp"
+                android:paddingStart="0dp"
+                android:password="false"
+                android:maxLines="1"
+                android:paddingTop="5dp"
+                android:inputType="text"
+                android:hint="00"
+                android:textAlignment="center" />
+
+        </LinearLayout>
+
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:orientation="horizontal">
+         <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:textAppearance="?android:attr/textAppearanceMedium"
+             android:id="@+id/tvR"
+             android:text="Result : "
+             android:layout_below="@id/tvUnit"
+             android:layout_gravity="center" />
+         <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:textAppearance="?android:attr/textAppearanceMedium"
+             android:id="@+id/tvRequiredUnit"
+             android:text="00"
+             android:layout_below="@id/tvUnit"
+             android:layout_gravity="center"
+             android:textColor="@android:color/holo_red_light"/>
+         <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:textAppearance="?android:attr/textAppearanceMedium"
+             android:id="@+id/tvU"
+             android:text=" Unit"
+             android:layout_below="@id/tvUnit"
+             android:layout_gravity="center" />
+
+     </LinearLayout>
+
+
+
+
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvUnit"
+        android:id="@+id/bSubmit"
+        android:text="Calculate"
+        android:textColor="@color/glucosio_text_green"/>
+
+        </LinearLayout>
+    </ScrollView>
+    </android.support.v7.widget.CardView>
+</RelativeLayout>

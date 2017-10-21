@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/nazmul/Desktop/My Project/Gradbar-master/build/intermediates/res/merged/debug/drawable-ldpi-v4/blood_red.xml",
+        "source": "/home/nazmul/Desktop/My Project/Gradbar-master/src/main/res/drawable-ldpi/blood_red.xml"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/My Project/Gradbar-master/build/intermediates/res/merged/debug/drawable-ldpi-v4/sherbert.xml",
+        "source": "/home/nazmul/Desktop/My Project/Gradbar-master/src/main/res/drawable-ldpi/sherbert.xml"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/My Project/Gradbar-master/build/intermediates/res/merged/debug/drawable-ldpi-v4/sunset.xml",
+        "source": "/home/nazmul/Desktop/My Project/Gradbar-master/src/main/res/drawable-ldpi/sunset.xml"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/My Project/Gradbar-master/build/intermediates/res/merged/debug/drawable-ldpi-v4/firewatch.xml",
+        "source": "/home/nazmul/Desktop/My Project/Gradbar-master/src/main/res/drawable-ldpi/firewatch.xml"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/My Project/Gradbar-master/build/intermediates/res/merged/debug/drawable-ldpi-v4/button_shape.xml",
+        "source": "/home/nazmul/Desktop/My Project/Gradbar-master/src/main/res/drawable-ldpi/button_shape.xml"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/My Project/Gradbar-master/build/intermediates/res/merged/debug/drawable-ldpi-v4/grad.xml",
+        "source": "/home/nazmul/Desktop/My Project/Gradbar-master/src/main/res/drawable-ldpi/grad.xml"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/My Project/Gradbar-master/build/intermediates/res/merged/debug/drawable-ldpi-v4/lush.xml",
+        "source": "/home/nazmul/Desktop/My Project/Gradbar-master/src/main/res/drawable-ldpi/lush.xml"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/My Project/Gradbar-master/build/intermediates/res/merged/debug/drawable-ldpi-v4/intuitive_purple.xml",
+        "source": "/home/nazmul/Desktop/My Project/Gradbar-master/src/main/res/drawable-ldpi/intuitive_purple.xml"
+    }
+]

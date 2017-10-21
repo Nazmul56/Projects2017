@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "695238879096",
+    "firebase_url": "https://fir-gcm2.firebaseio.com",
+    "project_id": "fir-gcm2",
+    "storage_bucket": "fir-gcm2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695238879096:android:3a43114f6cfa83d9",
+        "android_client_info": {
+          "package_name": "com.droidking.firebasegcm2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695238879096-bobdtte2mfdmpdi6trrcf82qeaucbi8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChmBuoPhapCiq5PCvvJ-qJ8QMCX4O7xz4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695238879096:android:6736f622b55272c3",
+        "android_client_info": {
+          "package_name": "christmaswallpaper.nazmul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695238879096-bobdtte2mfdmpdi6trrcf82qeaucbi8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChmBuoPhapCiq5PCvvJ-qJ8QMCX4O7xz4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695238879096:android:531673cfb2b11bd0",
+        "android_client_info": {
+          "package_name": "com.google.example.gms.ads.nativeexpressexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695238879096-bobdtte2mfdmpdi6trrcf82qeaucbi8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChmBuoPhapCiq5PCvvJ-qJ8QMCX4O7xz4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

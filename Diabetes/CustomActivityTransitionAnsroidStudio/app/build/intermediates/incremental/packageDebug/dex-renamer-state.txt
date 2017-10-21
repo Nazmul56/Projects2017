@@ -1,0 +1,7 @@
+#Sat Jan 28 13:40:29 BDT 2017
+base.0=/home/nazmul/Desktop/My Project/Diabetes/CustomActivityTransitionAnsroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ebae019c53f400820719a5d5579e71fb0c9754b1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/nazmul/Desktop/My Project/Diabetes/CustomActivityTransitionAnsroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e574b1f76e7c97849aa1355a1df526bae988019b/classes.dex
+base.1=/home/nazmul/Desktop/My Project/Diabetes/CustomActivityTransitionAnsroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e574b1f76e7c97849aa1355a1df526bae988019b
+file.0=/home/nazmul/Desktop/My Project/Diabetes/CustomActivityTransitionAnsroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ebae019c53f400820719a5d5579e71fb0c9754b1/classes.dex

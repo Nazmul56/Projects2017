@@ -1,0 +1,49 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nazmul/Desktop/My Project/Gradbar-master/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/nazmul/Desktop/My Project/Gradbar-master/src/main/AndroidManifest.xml:3:7-37
+	android:versionName
+		ADDED from /home/nazmul/Desktop/My Project/Gradbar-master/src/main/AndroidManifest.xml:5:7-32
+		INJECTED from /home/nazmul/Desktop/My Project/Gradbar-master/src/main/AndroidManifest.xml
+		INJECTED from /home/nazmul/Desktop/My Project/Gradbar-master/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/nazmul/Desktop/My Project/Gradbar-master/src/main/AndroidManifest.xml:4:7-30
+		INJECTED from /home/nazmul/Desktop/My Project/Gradbar-master/src/main/AndroidManifest.xml
+		INJECTED from /home/nazmul/Desktop/My Project/Gradbar-master/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nazmul/Desktop/My Project/Gradbar-master/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/nazmul/Desktop/My Project/Gradbar-master/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/nazmul/Desktop/My Project/Gradbar-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] /home/nazmul/Desktop/My Project/Gradbar-master/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /home/nazmul/Desktop/My Project/Gradbar-master/src/main/AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from /home/nazmul/Desktop/My Project/Gradbar-master/src/main/AndroidManifest.xml:8:9-35
+application
+ADDED from /home/nazmul/Desktop/My Project/Gradbar-master/src/main/AndroidManifest.xml:10:5-23:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/nazmul/Desktop/My Project/Gradbar-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] /home/nazmul/Desktop/My Project/Gradbar-master/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/nazmul/Desktop/My Project/Gradbar-master/src/main/AndroidManifest.xml:12:9-32
+	android:supportsRtl
+		ADDED from /home/nazmul/Desktop/My Project/Gradbar-master/src/main/AndroidManifest.xml:13:9-35
+	android:allowBackup
+		ADDED from /home/nazmul/Desktop/My Project/Gradbar-master/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /home/nazmul/Desktop/My Project/Gradbar-master/src/main/AndroidManifest.xml:14:9-40
+activity#com.flouthoc.gradbar.Main
+ADDED from /home/nazmul/Desktop/My Project/Gradbar-master/src/main/AndroidManifest.xml:16:9-21:20
+	android:name
+		ADDED from /home/nazmul/Desktop/My Project/Gradbar-master/src/main/AndroidManifest.xml:16:19-39
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/nazmul/Desktop/My Project/Gradbar-master/src/main/AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/nazmul/Desktop/My Project/Gradbar-master/src/main/AndroidManifest.xml:18:17-68
+	android:name
+		ADDED from /home/nazmul/Desktop/My Project/Gradbar-master/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/nazmul/Desktop/My Project/Gradbar-master/src/main/AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from /home/nazmul/Desktop/My Project/Gradbar-master/src/main/AndroidManifest.xml:19:27-74

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Youtube Channel</string>
+    <string name="channels">Channels/Playlists</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string name="title_activity_video_list">Video List</string>
+    <string name="title_activity_you_tube_player">You Tube</string>
+    <string name="playerview_text">This is a YouTubePlayerView!</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_youube_player">YouubePlayerActivity</string>
+    <!--Navigation Drawer Strings -->
+    <string name="film_genres">Channels/Playlists</string>
+    <string name="website"></string>
+    <string name="date"></string>
+    <string name="selected_item">Selected item</string>
+    <!-- Channel Name , ID , Type -->
+    <string-array name="channel_name">
+        <item>Finger Family</item>
+        <item>MagicBox English Stories</item>
+        <item>jana club</item>
+        <item>Firebase</item>
+        <item>Firebase Web</item>
+        <item>Android Developer</item>
+        <item>Google Design</item>
+        <item>Khan Academi</item>
+        <item>Mr B s Code</item>
+        <item>BBC Clicks</item>
+        <item>Technology News</item>
+        <item>Preschooler</item>
+        <item>Pipa Pig</item>
+
+    </string-array>
+    <string-array name="channel_ID">
+        <item>PLDt4VQajKv8xe_hvWqYdbRg35Q8F1r10u</item>
+        <item>UCcBXr47HBrCsKplyw6iKf3g</item>
+        <item>UCZ_fj3chhIW6pnc3i5lpaJw</item>
+        <item>UCP4bf6IHJJQehibu6ai__cg</item>
+        <item>PLl-K7zZEsYLmnJ_FpMOZgyg6XcIGBu2OX</item>
+        <item>UCVHFbqXqoYvEWM1Ddxl0QDg</item>
+        <item>UClKO7be7O9cUGL94PHnAeOA</item>
+        <item>UC4a-Gbdw7vOaccHmFo40b9g</item>
+        <item>UC8cPeCYtq-HKbLM0wH8gJCQ</item>
+        <item>UCu0Uc1oNDF36jRY_sskl8bA</item>
+        <item>PLbTuoCzCZmM8WD5nVFI1zxSor4yxsKGcF</item>
+        <item>UCLTAJzdkeCQb5uTWpwm2Gdw</item>
+        <item>PLmhCW7FhkPbouPIFlfChoWAsduIkwWrBd</item>
+    </string-array>
+
+    <string-array name="type">
+        <item>playlist</item>
+        <item>channel</item>
+        <item>channel</item>
+        <item>channel</item>
+        <item>playlist</item>
+        <item>channel</item>
+        <item>channel</item>
+        <item>channel</item>
+        <item>channel</item>
+        <item>channel</item>
+        <item>playlist</item>
+        <item>channel</item>
+        <item>playlist</item>
+
+    </string-array>
+    <!-- Group Name -->
+    <string-array name="group_name">
+        <item>Kids Story</item>
+        <item>Cartoon</item>
+        <item>Technology</item>
+        <item>Android</item>
+        <item>Firebase</item>
+    </string-array>
+
+    <string-array name="story">
+        <item>Finger Family</item>
+        <item>MagicBox English Stories</item>
+        <item>jana club</item>
+    </string-array>
+
+    <string-array name="cartoon">
+        <item>Preschooler</item>
+        <item>Pipa Pig</item>
+
+    </string-array>
+
+    <string-array name="technology">
+        <item>BBC Clicks</item>
+        <item>Technology News</item>
+        <item>Khan Academi</item>
+    </string-array>
+
+    <string-array name="android">
+        <item>Android Developer</item>
+        <item>Google Design</item>
+        <item>Khan Academi</item>
+        <item>Mr B s Code</item>
+
+    </string-array>
+
+    <string-array name="firebase">
+        <item>Firebase</item>
+        <item>Firebase Web</item>
+
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie_title">movie title</string>
+    <string name="action_movies">Action</string>
+    <string name="musical_movies">Musical</string>
+    <string name="drama_movies">Drama</string>
+    <string name="comedy_movies">Comedy</string>
+    <string name="thriller_movies">Thriller</string>
+    <string name="movie_genre">genre</string>
+
+</resources>

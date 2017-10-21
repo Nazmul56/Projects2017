@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/nazmul/Desktop/My Project/Gradbar-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/nazmul/Desktop/My Project/Gradbar-master/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_696b111339e037aaa710ad69469db3838e5e3c2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nazmul/Desktop/My Project/Gradbar-master/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/nazmul/Desktop/My Project/Gradbar-master/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_0e71e6113da1e240a6caab64a6535a44b4167d98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nazmul/Desktop/My Project/Gradbar-master/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/nazmul/Desktop/My Project/Gradbar-master/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_d4685a6b53bc35a122ce7b6c71c3fd154ebbfeb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nazmul/Desktop/My Project/Gradbar-master/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0b2dc527b5bfa6bbcb4362f4bdeb24481321fd8d">
+        <dex dex="/home/nazmul/Desktop/My Project/Gradbar-master/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9f4909edfff160fb0ba29227a3f8f046064a68fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nazmul/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/nazmul/Desktop/My Project/Gradbar-master/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_3676402b776b731d99ec1be508a18d6bdb919dce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nazmul/Desktop/My Project/Gradbar-master/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2e93b994b8f12bc0b15391c3cdd9a3e6b74fad06">
+        <dex dex="/home/nazmul/Desktop/My Project/Gradbar-master/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_491c9c263615894093f6e5ce65c10d30b6d9da79/classes.dex" />
+    </item>
+
+</items>

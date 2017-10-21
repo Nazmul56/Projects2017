@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/nazmul/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/nazmul/Desktop/My Project/JSON+Image/jsonandtextimage/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_e727248cfc4c48208af42b4299bfb71542107a42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nazmul/Desktop/My Project/JSON+Image/jsonandtextimage/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c15d9c36857659f769a7c989539eb402188db72a">
+        <dex dex="/home/nazmul/Desktop/My Project/JSON+Image/jsonandtextimage/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cfebd881ad9b04285acd9e34a800a6e06e433b00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nazmul/Desktop/My Project/JSON+Image/jsonandtextimage/app/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/home/nazmul/Desktop/My Project/JSON+Image/jsonandtextimage/app/build/intermediates/transforms/dex/debug/folders/1000/2/volley_6c342418a24d867d1b8978cb1853730bfaf47e9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nazmul/Desktop/My Project/JSON+Image/jsonandtextimage/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="cbb826b62c01ceff7a5cff0138ad9982fb2bc148">
+        <dex dex="/home/nazmul/Desktop/My Project/JSON+Image/jsonandtextimage/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_309c86a7456eb560469c95a0e95c7651d17d5612/classes.dex" />
+    </item>
+
+</items>

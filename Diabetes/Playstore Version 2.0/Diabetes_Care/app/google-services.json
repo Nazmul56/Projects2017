@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "745629179009",
+    "firebase_url": "https://api-project-745629179009.firebaseio.com",
+    "project_id": "api-project-745629179009",
+    "storage_bucket": "api-project-745629179009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745629179009:android:3cb0a03f1083dcbe",
+        "android_client_info": {
+          "package_name": "com.droidking.diabetes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745629179009-lelam54anjot2bjhfbeptul9j06d10f7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGToIwh3h0AMsxzdFjG9NqAGB2GrJbWXs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "600202953082",
+    "firebase_url": "https://socialmedia-c2250.firebaseio.com",
+    "project_id": "socialmedia-c2250",
+    "storage_bucket": "socialmedia-c2250.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600202953082:android:81f5a93a72126e67",
+        "android_client_info": {
+          "package_name": "com.droidkings.socialmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600202953082-uc5f98rp6i7pvbd2nj8tifo96vkqujg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrR8qxSTdiFHrK5WSnKe3Imk13GJWn5ZM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
