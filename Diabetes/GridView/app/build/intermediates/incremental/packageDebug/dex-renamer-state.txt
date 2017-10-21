@@ -1,7 +1,0 @@
-#Mon Jan 16 11:48:16 BDT 2017
-base.0=/home/nazmul/Desktop/My Project/Diabetes/GridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1736f9e76ce07a45f86d76497882a223820ebafa
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/home/nazmul/Desktop/My Project/Diabetes/GridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6a6a2bcbf20844d4551067fa7397bf7fc23168a1/classes.dex
-base.1=/home/nazmul/Desktop/My Project/Diabetes/GridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6a6a2bcbf20844d4551067fa7397bf7fc23168a1
-file.0=/home/nazmul/Desktop/My Project/Diabetes/GridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1736f9e76ce07a45f86d76497882a223820ebafa/classes.dex
